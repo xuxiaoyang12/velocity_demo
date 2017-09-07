@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <link rel="stylesheet" href="/static/custom.css">
+</head>
+<body>
+<div>
+
+    <div id="dataTable">
+        <div style="width: 800px;table-layout: fixed">
+            <table id="resultTable" class="ui-table">
+                <thead text-align="center" id="dataTable-thead">
+                <tr>
+                    <td width="80">测试表头列</td>
+                    <td width="80">测试表头列</td>
+                    <td width="80">测试表头列</td>
+                    <td width="80">测试表头列</td>
+                    <td width="80">测试表头列</td>
+                    <td width="80">测试表头列</td>
+                    <td width="80">测试表头列</td>
+                    <td width="80">测试表头列</td>
+                    <td width="80">测试表头列</td>
+                    <td width="80">测试表头列</td>
+                </tr>
+                </thead>
+
+            </table>
+
+        </div>
+        <div style="width: 817px;height: 400px;overflow: auto;table-layout: fixed">
+
+            <table id="resultTable" class="ui-table">
+
+                <tbody text-align="center" id="dataTable-tbody">
+
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+                <tr>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+                    <td width="80">32423234</td>
+
+                </tr>
+
+
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+    <!--<table>
+        <thead>
+            <tr>
+                <td>测试表头列</td>
+                <td>测试表头列</td>
+                <td>测试表头列</td>
+                <td>测试表头列</td>
+                <td>测试表头列</td>
+                <td>测试表头列</td>
+                <td>测试表头列</td>
+                <td>测试表头列</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+            </tr>
+            <tr>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+            </tr>
+            <tr>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+            </tr>
+            <tr>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+                <td>32423234</td>
+            </tr>
+        </tbody>
+    </table>-->
+</div>
+
+</body>
+</html>
